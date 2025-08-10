@@ -1,6 +1,42 @@
 ## Hello there 👋
 
-## &nbsp;Music
+## Music
+
+🎶 Music & Contact
+
+<table>
+  <tr>
+    <td width="55%">
+
+<!-- Spotify Widget -->
+<a href="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&redirect=true">
+  <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="100%" />
+</a>
+
+<!-- Contact Links -->
+<ul>
+  <li>🔗 <a href="https://www.linkedin.com/in/juan-camilo-aguirre-202881314/">LinkedIn</a></li>
+  <li>📧 <a href="mailto:jcaguirre0210@gmail.com">jcaguirre0210@gmail.com</a></li>
+  <li>🎧 <a href="https://open.spotify.com/user/khh54zpevdtbth569z60w7cqq?si=b2c483a0e7cb47e0">0ld Juan on Spotify</a></li>
+</ul>
+
+<!-- GitHub Stats -->
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=juantellas" width="100%" />
+</a>
+
+</td>
+<td align="center" width="45%">
+
+<!-- Pinterest Image with Frame -->
+<img src="https://i.pinimg.com/1200x/fa/f1/55/faf1557fd6664a52565ba4f2db96770a.jpg" 
+     width="300" 
+     style="border: 3px solid #53b14f; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
+
+</td>
+  </tr>
+</table>
+
 
 [![Spotify](https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true)](https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&redirect=true)
 
