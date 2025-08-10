@@ -15,6 +15,9 @@
     <li>spotify: <a href="https://open.spotify.com/user/khh54zpevdtbth569z60w7cqq?si=b2c483a0e7cb47e0">0ld Juan</a></li>
     <li><a href="https://steamcommunity.com/id/0429021020015/">Steam Profile: tarantellas</a></li>
     <li>uninorte student</li>
+
+  <li>About me: data scientist 🍺</li>
+
   </ul>
 </div>
 
