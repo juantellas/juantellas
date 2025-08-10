@@ -1,10 +1,9 @@
 # Hello there 👋
 
-## Music
 
 <table>
   <tr>
-    <td width="55%">
+    <td width="100%">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="100%" />
@@ -13,9 +12,10 @@
 
 <ul>
   <li><a href="https://www.linkedin.com/in/juan-camilo-aguirre-202881314/">juantellas' Linkedin</a></li>
-  <li> <a href="mailto:jcaguirre0210@gmail.com">jcaguirre0210@gmail.com</a></li>
-  <li><a href="https://open.spotify.com/user/khh54zpevdtbth569z60w7cqq?si=b2c483a0e7cb47e0">0ld Juan </a></li>
+  <li> email: <a href="mailto:jcaguirre0210@gmail.com">jcaguirre0210@gmail.com</a></li>
+  <li> spotify: <a href="https://open.spotify.com/user/khh54zpevdtbth569z60w7cqq?si=b2c483a0e7cb47e0">0ld Juan </a></li>
    <li><a href="https://steamcommunity.com/id/0429021020015/">Steam Profile: tarantellas</a></li>
+  <li> uninorte student </li>
 </ul>
 
 
