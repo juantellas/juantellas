@@ -24,7 +24,7 @@
 </div>
 
   </td>
-  <td width="50%" align="center" valign="top">
+  <td width="100%" align="center" valign="top">
 
   <img src="https://i.pinimg.com/1200x/fa/f1/55/faf1557fd6664a52565ba4f2db96770a.jpg" 
            width="80%" 
