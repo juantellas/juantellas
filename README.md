@@ -14,7 +14,7 @@
 <div style="font-size: 25px;">
   <ul>
     <li>About me: data scientist 🍺</li>
-    <li> Barranquilla, Colombia<li>
+    <li> Barranquilla, Colombia</li>
     <li> uninorte student</li>
     <li>linkedin: <a href="https://www.linkedin.com/in/juan-camilo-aguirre-202881314/">juantellas' Linkedin</a></li>
     <li>email: <a href="mailto:jcaguirre0210@gmail.com">jcaguirre0210@gmail.com</a></li>
@@ -27,7 +27,7 @@
   <td width="50%" align="center" valign="top">
 
   <img src="https://i.pinimg.com/1200x/fa/f1/55/faf1557fd6664a52565ba4f2db96770a.jpg" 
-           width="90%" 
+           width="80%" 
            style="border: 3px solid #53b14f; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 
    </td>
