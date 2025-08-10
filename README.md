@@ -8,7 +8,7 @@
         <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="100%" />
       </a>
 
-<div style="font-size: 18px;">
+<div style="font-size: 25px;">
   <ul>
     <li><a href="https://www.linkedin.com/in/juan-camilo-aguirre-202881314/">juantellas' Linkedin</a></li>
     <li>email: <a href="mailto:jcaguirre0210@gmail.com">jcaguirre0210@gmail.com</a></li>
