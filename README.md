@@ -3,7 +3,7 @@
 
 <table>
   <tr>
-    <td width="100%">
+    <td width="55%">
 
 <a href="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&redirect=true">
   <img src="https://spotify-github-profile.kittinanx.com/api/view?uid=khh54zpevdtbth569z60w7cqq&cover_image=true&theme=novatorem&show_offline=false&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=true" width="100%" />
@@ -20,7 +20,7 @@
 
 
 </td>
-<td align="center" width="45%">
+<td align="center" width="55%">
 
 <img src="https://i.pinimg.com/1200x/fa/f1/55/faf1557fd6664a52565ba4f2db96770a.jpg" 
      width="300" 
