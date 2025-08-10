@@ -16,7 +16,7 @@
     <li>steam: <a href="https://steamcommunity.com/id/0429021020015/">Steam Profile: tarantellas</a></li>
     <li>uninorte student</li>
   <li>About me: data scientist 🍺</li>
-<hr style="border: none; height: 3px; background-color: #53b14f; margin-top: 20px;" />
+  <hr style="border: none; height: 3px; background-color: #53b14f; margin-top: 21px;" />
   </ul>
 </div>
 
