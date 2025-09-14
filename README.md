@@ -21,16 +21,7 @@
     <li>steam: <a href="https://steamcommunity.com/id/0429021020015/">Steam Profile: tarantellas</a></li>
     <li> uninorte student</li>
   </ul>
-</div>
 
-  </td>
-  <td width="100%" align="center" valign="top">
-
-  <img src="https://i.pinimg.com/736x/c4/e4/41/c4e441e489710c8f3681cbac67614b69.jpg" 
-           width="80%" 
-           style="border: 3px solid #53b14f; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
-
-   </td>
   </tr>
 </table>
 
