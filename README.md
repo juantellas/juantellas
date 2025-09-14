@@ -26,7 +26,7 @@
   </td>
   <td width="100%" align="center" valign="top">
 
-  <img src="[https://i.pinimg.com/1200x/fa/f1/55/faf1557fd6664a52565ba4f2db96770a.jpg](https://i.pinimg.com/736x/c4/e4/41/c4e441e489710c8f3681cbac67614b69.jpg)" 
+  <img src="[https://i.pinimg.com/736x/c4/e4/41/c4e441e489710c8f3681cbac67614b69.jpg]" 
            width="80%" 
            style="border: 3px solid #53b14f; border-radius: 10px; box-shadow: 0 4px 8px rgba(0,0,0,0.3);" />
 
